@@ -1,0 +1,16 @@
+@keyframes white-red-white {
+    0% {
+      color: whitesmoke;
+    }
+  
+    50% {
+      color: red;
+    }
+  
+    100% {
+      color: whitesmoke;
+    }
+  }
+    .flag {
+    animation: white-red-white 5s infinite;
+    }
