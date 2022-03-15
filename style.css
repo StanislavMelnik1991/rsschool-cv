@@ -14,3 +14,7 @@
     .flag {
     animation: white-red-white 5s infinite;
     }
+    .photo {
+        width: 400px;
+        height: 300px;
+    }
