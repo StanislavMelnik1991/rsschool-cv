@@ -1,1 +1,1 @@
-# rsschool-cv
+https://StanislavMelnik1991.github.io/rsschool-cv/
