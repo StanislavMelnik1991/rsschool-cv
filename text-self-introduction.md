@@ -1,17 +1,3 @@
-# Melnik Stanislau Valer'evich
-### Contacts:
-+     Telephone:
-
-        +375(44)733-66-60 (A1/Viber)
-+     Email:
-
-        StanislavMelnik@gmail.com
-+     Discord:
-
-        StanislavMelnik#6792
-****
-### About myself:
-
 My name is Stanislav.
 I live in Minsk together with my wife and dog.
 I love cycling and jogging.
@@ -47,20 +33,3 @@ Now I'm beginning to learn React and Type Scrypt as the most commonly used libra
 I plan to try writing my own online store with React
 
 Right now I'm looking for a job as a front-end developer.
-
-****
-### Skils:
-*Visual Basic - Junior
-*Java Scrypt - Junior
-***
-### Working experience:
-
-some exeperince...
-***
-### Education:
-
-some education...
-***
-### Foreign languages:
-
-English - A2
