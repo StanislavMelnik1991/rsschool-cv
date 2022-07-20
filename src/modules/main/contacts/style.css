@@ -1,0 +1,60 @@
+.wrapper{
+    display: flex
+}
+.photo {
+    display: block;
+    max-width: 40%;
+    height: calc((496 * 40%) / 662);
+    border-radius: 10px;
+}
+.name{
+    font-size: 2rem;
+}
+.data {
+    width: 50%;
+    padding-left: 1rem;
+    color: whitesmoke;
+    padding-right: 1rem;
+}
+
+.belarus {
+    background-image: linear-gradient(0deg, #fdfdfd 30%, #ff0000 60%, #fdfdfd 10%, #fdfdfd 30%);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
+
+.section_block{
+    width: 100%;
+    display: flex;
+    gap: 1rem;
+    padding: 0.5rem;
+    align-items: center;
+    border-radius: 10px;
+    border-style: inset;
+    margin: 1rem;
+    margin-left: 0;
+}
+.title{
+    width: 40%;
+    margin: 0;
+
+}
+.description{
+    width: 100%;
+}
+
+.href{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.languages{
+    display: flex;
+}
+
+.contacts{
+    display: flex;
+}

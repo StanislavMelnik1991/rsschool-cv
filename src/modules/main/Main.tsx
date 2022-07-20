@@ -1,12 +1,17 @@
 import React from 'react';
-import {wrapper} from './style.css';
 
+import * as style from './style.css';
+import { About } from './about/About';
+import {Contacts} from './contacts/contacts';
 
 
 export function Main() {
 	return (
-		<div className={wrapper}>
-            main
-		</div>
+		<section className={style.wrapper}>
+			<Contacts />
+			<About />
+
+
+		</section>
 	);
 }
